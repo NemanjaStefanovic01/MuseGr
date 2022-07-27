@@ -2,9 +2,9 @@
 
 - :school: Third year in university in Novi Sad, Serbia
 
-📫 How to reach me: nemanja.stefanovic3105@gmail.com
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuseGr&theme=onedark&show_icons=true)
+
+📫 How to reach me: nemanja.stefanovic3105@gmail.com
 
 <!--
 **MuseGr/MuseGr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
