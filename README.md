@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there, I'm Nemanja Štefanović👋
+
+- :blue_book: I’m currently learning React. :white_check_mark:
+- 📫 How to reach me: nemanja.stefanovic3105@gmail.com
 
 <!--
 **MuseGr/MuseGr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
