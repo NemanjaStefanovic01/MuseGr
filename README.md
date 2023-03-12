@@ -1,6 +1,7 @@
 ### Hi there, I'm Nemanja Štefanović👋
 
-- :school: Third year in university in Novi Sad, Serbia
+- :school: Third year in Educons University in Novi Sad, Serbia
+- 📖: Software Engineering
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuseGr&theme=onedark&show_icons=true)
 
